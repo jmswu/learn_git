@@ -1,4 +1,7 @@
 # Learn git
+
+This is an example readme file
+
 ## blah
 ## blah
 ## blah
